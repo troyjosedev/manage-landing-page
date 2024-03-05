@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](github.com/Titoy123/manage-landing-page)
+- Live Site URL: [Add live site URL here](https://manage-landing-page-troy03.netlify.app/)
 
 ### Built with
 
